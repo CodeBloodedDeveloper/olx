@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default  function OlxLogo() {
+export default  function BorrowbuddyLogo() {
     return(  
           <svg
         width="48px"

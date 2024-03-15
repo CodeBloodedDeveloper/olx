@@ -1,9 +1,9 @@
 /**
- *  ? olx-logo.svg ----- login page signup page
+ *  ? Borrowbuddy-logo.png ----- login page signup page
  */
 
 /**
- *  !   olx brand name  header-component
+ *  !   Borrowbuddy brand name  header-component
  
 
 <svg
